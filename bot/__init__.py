@@ -1,0 +1,3 @@
+"""
+Telegram Music Bot package
+"""
